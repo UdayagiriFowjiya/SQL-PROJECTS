@@ -8,6 +8,7 @@ The main objective of the College Management System is to simplify the managemen
 
 1️⃣ STUDENT TABLE
 <br>
+<br>
 ![Screenshot 2025-03-10 161354](https://github.com/user-attachments/assets/17281793-b033-4420-b9fc-0309d5ac9ed6)
 <br>
 
@@ -23,6 +24,7 @@ SELECT * FROM student
 
 2️⃣ Department Table
 <br>
+<br>
 ![Screenshot 2025-03-10 133524](https://github.com/user-attachments/assets/d1d81b75-e75d-49fb-a854-c1e9e1cd8793)
 <br>
 
@@ -33,6 +35,7 @@ SELECT * FROM Department
 
 3️⃣ Course Table
 <br>
+<br>
 ![Screenshot 2025-03-10 133639](https://github.com/user-attachments/assets/87408b23-f895-4dbb-86c3-24c52f55a810)
 <br>
 
@@ -42,6 +45,7 @@ SELECT * FROM course
 <br>
 
 4️⃣ Faculty Table
+<br>
 <br>
 ![Screenshot 2025-03-10 133822](https://github.com/user-attachments/assets/292be4d6-aa38-48dd-afac-137493f5810b)
 <br>

@@ -14,10 +14,12 @@ The main objective of the College Management System is to simplify the managemen
 
 STUDENT DATA
 <br>
+<br>
 ![Screenshot 2025-03-10 133321](https://github.com/user-attachments/assets/d0f73c7d-ed1d-4025-b2f0-8bdf1ed73dc6)
 <br>
 
 SELECT * FROM student
+<br>
 <br>
 ![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/87100b35-d370-433c-95b7-8d6d49a994eb)
 <br>
@@ -30,6 +32,7 @@ SELECT * FROM student
 
 SELECT * FROM Department
 <br>
+<br>
 ![Screenshot 2025-03-10 161506](https://github.com/user-attachments/assets/ece4656f-070f-49c7-bbf6-841878a4f655)
 <br>
 
@@ -41,7 +44,8 @@ SELECT * FROM Department
 
 SELECT * FROM course
 <br>
-
+<br>
+![Screenshot 2025-03-10 161523](https://github.com/user-attachments/assets/d2bde27e-50ce-4fbf-aaa7-0fde5ae62879)
 <br>
 
 4️⃣ Faculty Table
@@ -52,6 +56,48 @@ SELECT * FROM course
 
 SELECT * FROM faculty
 <br>
-
 <br>
-## CONCLUSION
+![Screenshot 2025-03-10 161535](https://github.com/user-attachments/assets/d952d596-51a3-4911-b52a-93d261550701)
+<br>
+
+5️⃣ Faculty – Course Table
+<br>
+<br>
+![Screenshot 2025-03-10 133913](https://github.com/user-attachments/assets/769564ba-8b87-4f1f-8744-01faa6059357)
+<br>
+
+SELECT * FROM faculty_course
+<br>
+<br>
+![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/db76e210-1373-44ea-8736-1d9737e5056e)
+<br>
+
+2 . ![Screenshot 2025-03-10 134612](https://github.com/user-attachments/assets/df57312e-6cf0-406a-9c84-0070e4585f5c)
+3 . ![Screenshot 2025-03-10 134719](https://github.com/user-attachments/assets/43609db7-4313-474b-9dd1-a352b4496354)
+4 . 
+5 .
+6
+7
+8
+9
+10
+11
+12 
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30

@@ -76,6 +76,7 @@ SELECT * FROM faculty_course
 
 1 . Retrieve ALL Students details
 <br>
+		SELECT * FROM student;
 <br>
 ![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/87100b35-d370-433c-95b7-8d6d49a994eb)
 

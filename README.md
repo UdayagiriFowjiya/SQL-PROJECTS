@@ -72,13 +72,13 @@ SELECT * FROM faculty_course
 ![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/db76e210-1373-44ea-8736-1d9737e5056e)
 <br>
 
-## BASIC  & ADVANCE QUERIES WITH OUTPUTS
+## BASIC & ADVANCE QUERIES WITH OUTPUTS
 
 1 . Retrieve ALL Students details
 <br>
-		SELECT * FROM student;
+	-----	SELECT * FROM student;
 <br>
-![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/87100b35-d370-433c-95b7-8d6d49a994eb)
+![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/be766773-4cfd-4110-98d2-a373913eec8b)
 
 2 .
 <br>

@@ -21,7 +21,7 @@ STUDENT DATA
 SELECT * FROM student
 <br>
 <br>
-![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/87100b35-d370-433c-95b7-8d6d49a994eb)
+![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/be766773-4cfd-4110-98d2-a373913eec8b)
 <br>
 
 2️⃣ Department Table
@@ -72,32 +72,131 @@ SELECT * FROM faculty_course
 ![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/db76e210-1373-44ea-8736-1d9737e5056e)
 <br>
 
-2 . ![Screenshot 2025-03-10 134612](https://github.com/user-attachments/assets/df57312e-6cf0-406a-9c84-0070e4585f5c)
-3 . ![Screenshot 2025-03-10 134719](https://github.com/user-attachments/assets/43609db7-4313-474b-9dd1-a352b4496354)
+## BASIC  & ADVANCE QUERIES WITH OUTPUTS
+
+1 . Retrieve ALL Students details
+<br>
+<br>
+![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/87100b35-d370-433c-95b7-8d6d49a994eb)
+
+2 .
+<br>
+<br>
+![Screenshot 2025-03-10 134612](https://github.com/user-attachments/assets/df57312e-6cf0-406a-9c84-0070e4585f5c)
+
+3 . 
+<br>
+<br>
+![Screenshot 2025-03-10 134719](https://github.com/user-attachments/assets/43609db7-4313-474b-9dd1-a352b4496354)
+
 4 . 
+<br>
+<br>
+
 5 .
+<br>
+<br>
+
 6
+<br>
+<br>
+
 7
+<br>
+<br>
+
 8
+<br>
+<br>
+
 9
+<br>
+<br>
+
 10
+<br>
+<br>
+
 11
+<br>
+<br>
+
 12 
+<br>
+<br>
+
 13
+<br>
+<br>
+
 14
+<br>
+<br>
+
 15
+<br>
+<br>
+
 16
+<br>
+<br>
+
 17
+<br>
+<br>
+
 18
+<br>
+<br>
+
 19
+<br>
+<br>
+
 20
+<br>
+<br>
+
 21
+<br>
+<br>
+
 22
+<br>
+<br>
+
 23
+<br>
+<br>
+
 24
+<br>
+<br>
+
 25
+<br>
+<br>
+
 26
+<br>
+<br>
+
 27
+<br>
+<br>
+
 28
+<br>
+<br>
+
 29
+<br>
+<br>
+
 30
+<br>
+<br>
+
+
+
+## CONCLUSION

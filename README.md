@@ -6,19 +6,18 @@ The main objective of the College Management System is to simplify the managemen
 
 ## DATABASE SCHEMA
 
-DATABASE
-
-![image](https://github.com/user-attachments/assets/0578778d-e1ef-46e8-a249-a80ffd036d4f)
-
 1️⃣ STUDENT TABLE
 
-![image](https://github.com/user-attachments/assets/71fc459a-44d6-4355-a2da-5e43729de5ae)
+![Screenshot 2025-03-10 161354](https://github.com/user-attachments/assets/17281793-b033-4420-b9fc-0309d5ac9ed6)
+<br>
 
 STUDENT DATA
-![image](https://github.com/user-attachments/assets/3e774180-a37f-42eb-bfbe-63d8938b1dca)
+![Screenshot 2025-03-10 133321](https://github.com/user-attachments/assets/d0f73c7d-ed1d-4025-b2f0-8bdf1ed73dc6)
+<br>
 
 SELECT * FROM student
-![image](https://github.com/user-attachments/assets/6461c678-2e81-4782-a363-c09b127b5809)
+![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/87100b35-d370-433c-95b7-8d6d49a994eb)
+<br>
 
 2️⃣ Department Table
 ![image](https://github.com/user-attachments/assets/203cf1d1-b805-4600-82c1-ff599eb44c3b)

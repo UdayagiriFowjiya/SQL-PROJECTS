@@ -21,7 +21,7 @@ STUDENT DATA
 SELECT * FROM student
 <br>
 <br>
-![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/be766773-4cfd-4110-98d2-a373913eec8b)
+![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/8534692a-049e-40d3-9217-e89c6eb7b63b)
 <br>
 
 2️⃣ Department Table
@@ -76,9 +76,8 @@ SELECT * FROM faculty_course
 
 1 . Retrieve ALL Students details
 <br>
-	-----	SELECT * FROM student;
 <br>
-![Screenshot 2025-03-10 161551](https://github.com/user-attachments/assets/be766773-4cfd-4110-98d2-a373913eec8b)
+![Screenshot 2025-03-10 134519](https://github.com/user-attachments/assets/99c19dfb-31b9-4b05-9c15-881aa41879b4)
 
 2 .
 <br>

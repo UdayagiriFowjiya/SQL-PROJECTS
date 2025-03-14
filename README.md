@@ -22,12 +22,32 @@ SELECT * FROM student
 <br>
 
 2️⃣ Department Table
-![image](https://github.com/user-attachments/assets/203cf1d1-b805-4600-82c1-ff599eb44c3b)
+<br>
+![Screenshot 2025-03-10 133524](https://github.com/user-attachments/assets/d1d81b75-e75d-49fb-a854-c1e9e1cd8793)
+<br>
 
 SELECT * FROM Department
-![image](https://github.com/user-attachments/assets/b2f783bb-8bea-47bb-bea6-85467bbc545f)
+<br>
+![Screenshot 2025-03-10 161506](https://github.com/user-attachments/assets/ece4656f-070f-49c7-bbf6-841878a4f655)
+<br>
 
 3️⃣ Course Table
-![image](https://github.com/user-attachments/assets/acf037c0-e4a2-45dc-baab-86a0ce4dbe2f)
+<br>
+![Screenshot 2025-03-10 133639](https://github.com/user-attachments/assets/87408b23-f895-4dbb-86c3-24c52f55a810)
+<br>
 
+SELECT * FROM course
+<br>
+
+<br>
+
+4️⃣ Faculty Table
+<br>
+![Screenshot 2025-03-10 133822](https://github.com/user-attachments/assets/292be4d6-aa38-48dd-afac-137493f5810b)
+<br>
+
+SELECT * FROM faculty
+<br>
+
+<br>
 ## CONCLUSION
